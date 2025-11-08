@@ -1,0 +1,2 @@
+option.FOG_DENSITY = Fog Density Divsion
+option.FOG_DENSITY.comment = How much the fog is divided by
